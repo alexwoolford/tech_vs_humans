@@ -1,0 +1,8 @@
+.idea/
+.env
+*.pkl
+*.bak
+*.sqlite
+*.pyc
+*.ipynb_checkpoints/
+*.log
